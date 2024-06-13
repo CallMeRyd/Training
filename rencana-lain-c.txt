@@ -1,8 +1,14 @@
 RENCANA LAIN
+
 - buat chenel
 - interview
-- JavaScript
-  + Angular
 - PHP frame work
   + Laravel
+- Fundamental / Structure
+- JavaScript
+  + react
+  + vue
+  + ES6
+  + angular
 - Vlogs
+- Phyton
