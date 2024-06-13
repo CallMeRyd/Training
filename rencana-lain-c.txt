@@ -1,4 +1,9 @@
 RENCANA LAIN
+
 - buat chenel
 - interview
 - Fundamental / Structure
+- JavaScript
+  + vue
+  + ES6
+- Vlogs
