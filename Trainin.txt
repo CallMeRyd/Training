@@ -2,3 +2,5 @@ Training
  - konsisten 
  - membuat platform pengelolaan
  - mebuat forum diskusi
+ - frontend
+ - cari expert
