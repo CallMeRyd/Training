@@ -4,3 +4,5 @@ Training
  - mebuat forum diskusi
  - frontend
  - membuat web 
+ - JavaScript
+  + Next Java
