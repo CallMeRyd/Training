@@ -1,0 +1,4 @@
+Training
+ - konsisten 
+ - membuat platform pengelolaan
+ - mebuat forum diskusi
